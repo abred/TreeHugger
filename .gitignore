@@ -6,6 +6,9 @@
 *.o
 *.obj
 *.so
+*.a
+*.la
+
 
 # Backup files #
 #################
